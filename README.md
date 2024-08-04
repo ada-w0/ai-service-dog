@@ -14,4 +14,8 @@ Python & Visual C++ 14.0+ installed.
    ```pip install Flask```
 4. Open mdpy.py via
    ```python mdpy.py```
+OR
+4. Open app.py after changing 'YOURLOCALPATHHERE' to your path to app.py (formatted according to Flask standards.) Use
+   ```python app.py```
+
 
