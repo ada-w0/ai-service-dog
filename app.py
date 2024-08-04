@@ -10,7 +10,7 @@ def index():
     <html>
     <head>
         <title>AI Service Dog</title>
-        <link rel="stylesheet" type="text/css" href="/static/style.css">
+        <link rel="stylesheet" type="text/css" href="style.css">
     </head>
     <body>
         <h1>AI Service Dog</h1>
