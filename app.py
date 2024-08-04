@@ -35,7 +35,7 @@ def index():
 @app.route('/run-script')
 def run_script():
     # Path to your Python script
-    script_path = 'C:\\Users\\beaut\\Downloads\\KYH\\2024\\mdpy.py'
+    script_path = 'YOURLOCALPATHHERE'
     subprocess.Popen(['python', script_path])
     return 'Script is running (´▽`ʃ♡ƪ)! ASD is detecting...'
 
