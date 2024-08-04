@@ -12,5 +12,6 @@ Python & Visual C++ 14.0+ installed.
    ```pip install pygame```
 3. Install Flask via
    ```pip install Flask```
-4. Open app.py via
-   ```python app.py```
+4. Open mdpy.py via
+   ```python mdpy.py```
+
